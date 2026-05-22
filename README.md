@@ -7,7 +7,7 @@
 ## 1. 프로젝트 개요 (Project Overview)
 본 프로젝트는 **Webots 시뮬레이터 환경**에서 차량의 비전 센서만을 사용하여 안정적인 차선 유지 제어를 구현하는 것을 목표로 합니다.
 
-카메라로 획득한 전방 도로 영상을 CNN기반 모델로 분석하여 차선을 실시간으로 인식하며, 차량 동역학 제어 알고리즘과 ROS2 통신 아키텍처를 결합하여 다양한 Webot 시뮬레이션 내에서 안정적으로 주행할 수 있는 시스템을 구축합니다.
+카메라로 획득한 전방 도로 영상을 CNN기반 모델로 분석하여 차선을 실시간으로 인식하며, 차량 동역학 제어 알고리즘과 ROS2 통신 아키텍처를 결합하여 Webots 시뮬레이션 내에서 안정적으로 주행할 수 있는 시스템을 구축합니다.
 
 * **개발 기간:** 2026.03 ~ 진행 중 (2026.06 완료예정)
 
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## 2. 팀원 소개 및 역할 (Team Member)
+## 2. 팀원 소개 및 역할 (Team Members)
 | 이름 | 소속 | 역할 및 담당 기능 |
 | :---: | :---: | :--- |
 | **김민호** | 숭실대학교 AI소프트웨어학부 | 팀장, 차량 동역학 기반 제어 알고리즘 구현 |
@@ -40,7 +40,7 @@
 ### Libraries & Frameworks
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
 
---- 
+---
 
 <br>
 <br>
@@ -58,7 +58,7 @@
     ├── Minho/              # 팀원별 개별 작업 및 실험 폴더
     ├── Kyeongsu/               
     ├── Cheolhyun/          
-    └── Doyoung/
+    └── Gyuhyeok/
 ```
 
 ---
